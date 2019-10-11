@@ -1,4 +1,3 @@
-
 <div align=center>
 <img width="500" src="./img/cover.png" alt="封面"/>
 </div>
@@ -128,6 +127,7 @@ English Version: [Dive into Deep Learning](https://d2l.ai/) | [Github Repo](http
 
 ## 引用
 如果您在研究中使用了这个项目请引用原书:
+
 ```
 @book{zhang2019dive,
     title={Dive into Deep Learning},
@@ -136,3 +136,4 @@ English Version: [Dive into Deep Learning](https://d2l.ai/) | [Github Repo](http
     year={2019}
 }
 ```
+
